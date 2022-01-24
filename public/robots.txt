@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://meyer-laurent.com
+
+# Sitemaps
+Sitemap: https://meyer-laurent.com/sitemap.xml
